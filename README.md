@@ -1,3 +1,2 @@
-# Final-Project
-Nama : Athif Tafrihan Achyar
-NIM  : H1051201010
+# Athif Tafrihan Achyar - H1051201010
+
